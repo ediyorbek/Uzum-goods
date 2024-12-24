@@ -1,0 +1,83 @@
+Amout of goods: 70
+Avarage price with discount: 887423.0
+Avarage price without discount: 2055851.3
+Max price with discount: 6290000
+
+The most expensive products with discount:
+                                                 name  new_price  discount  discount_percentage  old_price rate  reviews
+21  Смартфон Xiaomi 14T и 14T Pro 12ГБ+1TБ AMOLED ...    6290000  14909000                 70.3   21199000  5.0        3
+62  Умный робот пылесос Xiaomi Mi Robot Vacuum X10...    4999000   4024000                 44.6    9023000  5.0       12
+22  Смартфон Xiaomi Redmi Note 13 Pro+ 8/256 ГБ 12...    4490000   1539000                 25.5    6029000  4.8      198
+59  Противоударный смартфон Honor X9b 5G 8/12/256Г...    4199000   1368000                 24.6    5567000  4.9      749
+17  Смартфон Honor 200 lite 8/256 ГБ камера 108 МП...    2999000   2001000                 40.0    5000000  4.8       46
+
+Max price without discount: 21199000
+
+The most expensive products without discount:
+                                                 name  new_price  discount  discount_percentage  old_price rate  reviews
+21  Смартфон Xiaomi 14T и 14T Pro 12ГБ+1TБ AMOLED ...    6290000  14909000                 70.3   21199000  5.0        3
+20     Очиститель воздуха Xiaomi Smart Air Purifier 4     799000  14201000                 94.7   15000000  5.0        2
+62  Умный робот пылесос Xiaomi Mi Robot Vacuum X10...    4999000   4024000                 44.6    9023000  5.0       12
+50  Смартфон Xiaomi Redmi Note 13 Pro 12+512ГБ 6.6...    2899000   5098000                 63.7    7997000  4.8      170
+64  Робот пылесос Xiaomi Mi Robot Vacuum S20 S20+ ...    2799000   3430000                 55.1    6229000  4.9       53
+
+Min price with discount: 9990
+Min price without discount: 0
+Max reviews: 20165
+Min reviews: 0
+Avarage reviews: 714.8142857142857
+
+If we calculate that the number of reviews equals the number of sales.
+ Then the most popular products are:
+                                                 name  new_price  discount  discount_percentage  old_price rate  reviews
+0   Бумага листовая для офисной техники Sylvamo Sv...      35990     19010                 34.6      55000  4.9    20165
+16                Сладкая кукуруза Oila tanlovi 400 г       9990      6010                 37.6      16000  4.9     9222
+7                           Кофе Jacobs Monarch 190 г      99020     14980                 13.1     114000  5.0     3215
+44  Аккумуляторная дрель-шуруповерт LFINE щеточная...     259000    291000                 52.9     550000  4.7     1770
+41   Сковорода алюминиевая Oila Tanlovi 26/ 24/ 28 см      80000     30000                 27.3     110000  4.8     1521
+
+Max discount: 14909000
+Max discount percentage: 94.7
+Min discount: 0
+Min discount percentage: 8.0
+Average discount: 1215128.29
+Average discount percentage: 46.32
+
+The most favorable products based on the amount of discount:
+                                                 name  new_price  discount  discount_percentage  old_price rate  reviews
+21  Смартфон Xiaomi 14T и 14T Pro 12ГБ+1TБ AMOLED ...    6290000  14909000                 70.3   21199000  5.0        3
+20     Очиститель воздуха Xiaomi Smart Air Purifier 4     799000  14201000                 94.7   15000000  5.0        2
+50  Смартфон Xiaomi Redmi Note 13 Pro 12+512ГБ 6.6...    2899000   5098000                 63.7    7997000  4.8      170
+62  Умный робот пылесос Xiaomi Mi Robot Vacuum X10...    4999000   4024000                 44.6    9023000  5.0       12
+12  Смартфон Samsung Galaxy A06 6+128ГБ 6.7 большо...    1299000   3700000                 74.0    4999000  4.9       70
+
+The most favorable products based on the percentage of discount:
+                                                 name  new_price  discount  discount_percentage  old_price rate  reviews
+20     Очиститель воздуха Xiaomi Smart Air Purifier 4     799000  14201000                 94.7   15000000  5.0        2
+34  Елка искусственная новогодняя с ягодами и шишк...     289000   2710000                 90.4    2999000  4.9      101
+14  Новогодняя искусственная ёлка высотой 120 - 15...     139000    860000                 86.1     999000  4.9      712
+46  Палитра матовых теней для век MATTE PROFESSION...      24000    126000                 84.0     150000  4.8      191
+68                       Новогодняя шапка Деда Мороза      19000     81000                 81.0     100000  4.3       93
+
+How many what ratings among the products:
+rate
+4.9         29
+5.0         14
+4.8         13
+4.7          4
+4.3          2
+Новинка!     2
+0            2
+3.3          1
+4.1          1
+4.6          1
+4.4          1
+Name: count, dtype: int64
+
+Top 5 products with the best ratings:
+                                                 name  new_price  discount  discount_percentage  old_price rate  reviews
+3             Зеленый горошек Bonduelle нежный 400 гр      16900      2400                 12.4      19300  5.0     1065
+7                           Кофе Jacobs Monarch 190 г      99020     14980                 13.1     114000  5.0     3215
+15                       Пижама unisex для всей семьи     139000     61000                 30.5     200000  5.0       11
+20     Очиститель воздуха Xiaomi Smart Air Purifier 4     799000  14201000                 94.7   15000000  5.0        2
+21  Смартфон Xiaomi 14T и 14T Pro 12ГБ+1TБ AMOLED ...    6290000  14909000                 70.3   21199000  5.0        3
